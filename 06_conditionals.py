@@ -36,7 +36,7 @@ else:
     print("Negative number")
 
 
-#if shorthand
+#if shorthand=turnary operator
 age = 20
 print("Age is:", age)
 print("You are an adult." if age >= 18 else "You are not an adult.")
