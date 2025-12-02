@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="47cd925a-273e-494f-8076-22da685eb93c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/04_python_oops/01_Basics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_python_oops/02_class vs instance attributes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_python_oops/03_employee_attributes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_python_oops/05_docstrings_basics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_python_oops/07_instance vs class vs static methodes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_problems/19_Phone book.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_File Handling/21_File handling.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_File Handling/22_Exception Handling.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_File Handling/23_csv Module.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_File Handling/24_json_Module.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_File Handling/25_Pickle Module.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="35riumagYh6hFjClkV1qBYOQg2c" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.02_class vs instance attributes.executor": "Run",
+    "Python.03_employee_attributes.executor": "Run",
+    "Python.05_docstrings_basics.executor": "Run",
+    "Python.15_RegEx-Access Log IPs and URLs.executor": "Run",
+    "Python.16_Emails Extractor.executor": "Run",
+    "Python.17_random ip generator.executor": "Run",
+    "Python.18_ip extractor.executor": "Run",
+    "Python.19_Phone book.executor": "Run",
+    "Python.rename.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-4e2b1448bda8-9a97661f3031-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.27397.106" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47cd925a-273e-494f-8076-22da685eb93c" name="Changes" comment="" />
+      <created>1763874824446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763874824446</updated>
+    </task>
+    <servers />
+  </component>
+</project>
