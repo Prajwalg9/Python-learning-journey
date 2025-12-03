@@ -5,17 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47cd925a-273e-494f-8076-22da685eb93c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/04_python_oops/01_Basics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_python_oops/02_class vs instance attributes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_python_oops/03_employee_attributes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_python_oops/05_docstrings_basics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_python_oops/07_instance vs class vs static methodes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice_problems/19_Phone book.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_File Handling/21_File handling.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_File Handling/22_Exception Handling.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_File Handling/23_csv Module.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_File Handling/24_json_Module.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_File Handling/25_Pickle Module.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_problems/20_Password generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_problems/21_The Balanced Test Score Generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_problems/22_Valid License Plate Checker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_problems/23_Tic Tak Toe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +49,10 @@
     "Python.17_random ip generator.executor": "Run",
     "Python.18_ip extractor.executor": "Run",
     "Python.19_Phone book.executor": "Run",
+    "Python.21_The Balanced Test Score Generator.executor": "Run",
+    "Python.22_Valid License Plate Checker.executor": "Run",
+    "Python.23_Tic Tak Toe.executor": "Run",
+    "Python.Password generator.executor": "Run",
     "Python.rename.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
