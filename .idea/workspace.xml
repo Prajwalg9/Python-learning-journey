@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47cd925a-273e-494f-8076-22da685eb93c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Practice_problems/20_Password generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice_problems/21_The Balanced Test Score Generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice_problems/22_Valid License Plate Checker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice_problems/23_Tic Tak Toe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_python_oops/04_inheristence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_python_oops/08_polymorphism.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_python_oops/09_abstraction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Tkinter/01_hello_window.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Tkinter/02_label and button.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Tkinter/03_entry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_problems/24_To DO App CLI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_problems/25_complex num Addition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_problems/26_rocks papers scissors.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +48,11 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.02_class vs instance attributes.executor": "Run",
     "Python.03_employee_attributes.executor": "Run",
+    "Python.03_entry.executor": "Run",
+    "Python.03_label and button.executor": "Run",
+    "Python.04_inheristence.executor": "Run",
     "Python.05_docstrings_basics.executor": "Run",
+    "Python.09_abstraction.executor": "Run",
     "Python.15_RegEx-Access Log IPs and URLs.executor": "Run",
     "Python.16_Emails Extractor.executor": "Run",
     "Python.17_random ip generator.executor": "Run",
@@ -52,7 +61,11 @@
     "Python.21_The Balanced Test Score Generator.executor": "Run",
     "Python.22_Valid License Plate Checker.executor": "Run",
     "Python.23_Tic Tak Toe.executor": "Run",
+    "Python.24_To DO App CLI.executor": "Run",
+    "Python.26_rocks papers scissors.executor": "Run",
     "Python.Password generator.executor": "Run",
+    "Python.complex num Addition.executor": "Run",
+    "Python.polymorphism.executor": "Run",
     "Python.rename.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
