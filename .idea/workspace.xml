@@ -5,16 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47cd925a-273e-494f-8076-22da685eb93c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/04_python_oops/04_inheristence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_python_oops/08_polymorphism.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_python_oops/09_abstraction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_Tkinter/01_hello_window.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_Tkinter/02_label and button.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_Tkinter/03_entry.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice_problems/24_To DO App CLI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice_problems/25_complex num Addition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice_problems/26_rocks papers scissors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Tkinter/02_Labels in Tk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Tkinter/03_Buttons in python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Tkinter/04_Entry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Tkinter/05_Check-button.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Tkinter/06_Radio-Button.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Tkinter/07_scale.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Tkinter/08_list_box.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Tkinter/09_Messagebox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Tkinter/10_color_chooser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_problems/27_ludo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_Tkinter/01_hello_window.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_Tkinter/01_hello_window.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_Tkinter/02_label and button.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_Tkinter/03_entry.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,13 +50,23 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.01_hello_window.executor": "Debug",
+    "Python.02_Labels in Tk.executor": "Run",
     "Python.02_class vs instance attributes.executor": "Run",
+    "Python.03_Buttons in python.executor": "Run",
     "Python.03_employee_attributes.executor": "Run",
     "Python.03_entry.executor": "Run",
     "Python.03_label and button.executor": "Run",
+    "Python.04_Entry.executor": "Run",
     "Python.04_inheristence.executor": "Run",
+    "Python.05_Check-button.executor": "Run",
     "Python.05_docstrings_basics.executor": "Run",
+    "Python.06_Radio-Button.executor": "Run",
+    "Python.07_scale.executor": "Run",
+    "Python.08_list_box.executor": "Run",
+    "Python.09_Messagebox.executor": "Run",
     "Python.09_abstraction.executor": "Run",
+    "Python.10_color_chooser.executor": "Run",
     "Python.15_RegEx-Access Log IPs and URLs.executor": "Run",
     "Python.16_Emails Extractor.executor": "Run",
     "Python.17_random ip generator.executor": "Run",
@@ -63,6 +77,7 @@
     "Python.23_Tic Tak Toe.executor": "Run",
     "Python.24_To DO App CLI.executor": "Run",
     "Python.26_rocks papers scissors.executor": "Run",
+    "Python.27_ludo.executor": "Run",
     "Python.Password generator.executor": "Run",
     "Python.complex num Addition.executor": "Run",
     "Python.polymorphism.executor": "Run",

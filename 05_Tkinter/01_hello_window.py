@@ -1,11 +1,16 @@
-import tkinter as tk  # import the tkinter module and give it a short name
+import tkinter as tk
+from tkinter import PhotoImage
 
-# 1) Create the main application window (root window)
-root = tk.Tk()
+root=tk.Tk()
+root.title("My First GUI App")#Title of app
+root.geometry("400x400")#size of window
 
-# 2) Set basic properties of the window
-root.title("My First Tkinter App")   # window title text
-root.geometry("400x300")             # width x height in pixels
+logo=PhotoImage(file="logo.png")#logo of app
+root.iconphoto(True,logo)
 
-# 3) Start the event loop so the window appears and stays open
+root.configure(bg="Purple")#Background color
+
+label=tk.Label(root,text="Hello, World!", font=("Arial", 10, "bold"),bg="Limegreen",fg="brown")
+label.pack()
+
 root.mainloop()
