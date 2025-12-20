@@ -5,20 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47cd925a-273e-494f-8076-22da685eb93c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/05_Tkinter/02_Labels in Tk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_Tkinter/03_Buttons in python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_Tkinter/04_Entry.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_Tkinter/05_Check-button.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_Tkinter/06_Radio-Button.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_Tkinter/07_scale.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_Tkinter/08_list_box.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_Tkinter/09_Messagebox.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_Tkinter/10_color_chooser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice_problems/27_ludo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Tkinter/11_Text_Area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Tkinter/12_file handling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Tkinter/13_MenuBar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Tkinter/14_Frames.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Tkinter/15_Sub Windows.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Tkinter/16_Tabs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_problems/28_Calculator GUI.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_Tkinter/01_hello_window.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_Tkinter/01_hello_window.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_Tkinter/02_label and button.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_Tkinter/03_entry.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,8 +61,14 @@
     "Python.09_Messagebox.executor": "Run",
     "Python.09_abstraction.executor": "Run",
     "Python.10_color_chooser.executor": "Run",
+    "Python.11_Text_Area.executor": "Run",
+    "Python.12_file handling.executor": "Run",
+    "Python.13_MenuBar.executor": "Run",
+    "Python.14_Frames.executor": "Run",
     "Python.15_RegEx-Access Log IPs and URLs.executor": "Run",
+    "Python.15_Sub Windows.executor": "Run",
     "Python.16_Emails Extractor.executor": "Run",
+    "Python.16_Tabs.executor": "Run",
     "Python.17_random ip generator.executor": "Run",
     "Python.18_ip extractor.executor": "Run",
     "Python.19_Phone book.executor": "Run",
@@ -78,6 +78,7 @@
     "Python.24_To DO App CLI.executor": "Run",
     "Python.26_rocks papers scissors.executor": "Run",
     "Python.27_ludo.executor": "Run",
+    "Python.28_Calculator GUI.executor": "Run",
     "Python.Password generator.executor": "Run",
     "Python.complex num Addition.executor": "Run",
     "Python.polymorphism.executor": "Run",
