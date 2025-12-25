@@ -53,7 +53,7 @@ def isDraw(board):
 
 
 if __name__ == "__main__":
-    print("Welcome to Tic Tac Toe")
+    print("welcome to Tic Tac Toe")
     while True:
         board = [1, 2, 3, 4, 5, 6, 7, 8, 9]
         print("\nMain Menu:")

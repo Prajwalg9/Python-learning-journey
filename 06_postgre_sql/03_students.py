@@ -71,7 +71,7 @@ def student_dashboard(roll):
     frame.pack(fill="both", expand=True, padx=30, pady=20)
 
     tk.Label(
-        frame, text="• 👋 Welcome Student •",
+        frame, text="• 👋 welcome Student •",
         font=("Arial", 16, "bold"),
         bg="darkgreen", fg="white",
         pady=12
@@ -164,7 +164,7 @@ def administrator():
     
 
     tk.Label(
-        admin, text="• Welcome Administrator •",
+        admin, text="• welcome Administrator •",
         font=("Arial", 15, "bold"),
         bg="darkblue", fg="white",
         pady=10
@@ -496,7 +496,7 @@ def Submit(passwd):
         admin.pack(fill="both", expand=True, padx=30, pady=20)
 
         tk.Label(
-            admin, text="• 👑 Welcome Administrator •",
+            admin, text="• 👑 welcome Administrator •",
             font=("Arial", 16, "bold"),
             bg="darkblue", fg="white",
             pady=12

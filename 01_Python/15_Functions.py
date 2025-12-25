@@ -20,7 +20,7 @@ This file covers:
 # 1. BASIC FUNCTION
 def greet():
     """Prints a welcome message."""
-    print("Hello! Welcome to Python.")
+    print("Hello! welcome to Python.")
 
 greet()
 

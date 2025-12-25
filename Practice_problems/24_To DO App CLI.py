@@ -41,7 +41,7 @@ def delete_task(index):
         print("Invalid Choice")
 
 def main():
-    print("Welcome to To Do App")
+    print("welcome to To Do App")
     print("-Here you can add your tasks\n")
     while True:
         print("Select an option by index: ")

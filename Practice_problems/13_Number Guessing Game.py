@@ -1,5 +1,5 @@
 import random
-print("Welcome to the Number Guessing Game\n You have 10 chances to guess your number.")
+print("welcome to the Number Guessing Game\n You have 10 chances to guess your number.")
 while True:
 
     inp=input("Press enter to play a guessing game or q to quit: ")

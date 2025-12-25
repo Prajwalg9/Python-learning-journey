@@ -137,7 +137,7 @@ def Login():
     print("Invalid Username or Password!")
 
 
-print("Welcome to Lena Dena Bank")
+print("welcome to Lena Dena Bank")
 
 while True:
     print("\n1. Register New Account")

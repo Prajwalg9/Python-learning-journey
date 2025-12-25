@@ -8,7 +8,7 @@ print("Numbers found:", matches)  # Output: Numbers found: ['2', '5']
 
 
 # search() scans through string, looking for the first location where the pattern matches
-text = "Welcome to Regex!"
+text = "welcome to Regex!"
 result = re.search(r"Regex", text)  # Searches for "Regex" anywhere in the string
 if result:
     print("Found at position:", result.start())  # Output: Found at position: 11

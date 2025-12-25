@@ -5,14 +5,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47cd925a-273e-494f-8076-22da685eb93c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/05_Tkinter/11_Text_Area.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_Tkinter/12_file handling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_Tkinter/13_MenuBar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_Tkinter/14_Frames.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_Tkinter/15_Sub Windows.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_Tkinter/16_Tabs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice_problems/28_Calculator GUI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_Data Analysis/1_NumPy/00_NUMPY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_Data Analysis/1_NumPy/01_Basics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_Data Analysis/1_NumPy/02_Useful methodes and mathematical operations on arrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_Data Analysis/1_NumPy/03_Aggreation Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_Data Analysis/1_NumPy/04_Indexing slicing fancy and boolean masking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_Data Analysis/1_NumPy/05_Reshaping manipulating flatening.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_Data Analysis/1_NumPy/06_Inserting in array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_Data Analysis/1_NumPy/07_Appending in arrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_Data Analysis/1_NumPy/08_Concatination of arrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_Data Analysis/1_NumPy/09_Stacking of arrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_Data Analysis/1_NumPy/10_Deleting arrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_Data Analysis/1_NumPy/11_spliting arrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_Data Analysis/1_NumPy/12_Broadcasting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_Data Analysis/1_NumPy/13_Vectorization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_Data Analysis/1_NumPy/14_handling_missing_values_numpy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Django/01_Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Django/02_Django project stucture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Django/03_Setting up django environment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Django/04_django_environment.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Django/05_app urls.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Django/Dynamic_URL_Handling/Blogs/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Django/Dynamic_links/Links/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Django/MyBlogs/Blogs/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Django/Templates_AppName_HTML/HTML_through_AppRegistration/templates/HTML/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Django/Templates_AppName_HTML/HTML_through_AppRegistration/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJECTS/Fin_Trace_Desktop/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJECTS/Fin_Trace_Desktop/data_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJECTS/Fin_Trace_Desktop/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJECTS/Fin_Trace_Desktop/reports.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJECTS/Fin_Trace_Desktop/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJECTS/Fin_Trace_Desktop/ui_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJECTS/Intelligent file organizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_problems/29_Tic tac toe GUI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Python/15_Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Python/15_Functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_RegEx/01_Findall vs search vs match.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_RegEx/01_Findall vs search vs match.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_postgre_sql/01_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_postgre_sql/01_app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_postgre_sql/03_students.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_postgre_sql/03_students.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice_problems/13_Number Guessing Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_problems/13_Number Guessing Game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice_problems/14_Bank App with Database as json file.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_problems/14_Bank App with Database as json file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice_problems/23_Tic Tak Toe.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_problems/23_Tic Tak Toe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice_problems/24_To DO App CLI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_problems/24_To DO App CLI.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,14 +80,18 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.01_Basics.executor": "Run",
     "Python.01_hello_window.executor": "Debug",
     "Python.02_Labels in Tk.executor": "Run",
+    "Python.02_Useful methodes and mathematical operations on arrays.executor": "Run",
     "Python.02_class vs instance attributes.executor": "Run",
+    "Python.03_Aggreation Functions.executor": "Run",
     "Python.03_Buttons in python.executor": "Run",
     "Python.03_employee_attributes.executor": "Run",
     "Python.03_entry.executor": "Run",
     "Python.03_label and button.executor": "Run",
     "Python.04_Entry.executor": "Run",
+    "Python.04_Indexing slicing fancy and boolean masking.executor": "Run",
     "Python.04_inheristence.executor": "Run",
     "Python.05_Check-button.executor": "Run",
     "Python.05_docstrings_basics.executor": "Run",
@@ -60,8 +100,11 @@
     "Python.08_list_box.executor": "Run",
     "Python.09_Messagebox.executor": "Run",
     "Python.09_abstraction.executor": "Run",
+    "Python.10_Deleting arrays.executor": "Run",
     "Python.10_color_chooser.executor": "Run",
     "Python.11_Text_Area.executor": "Run",
+    "Python.11_spliting arrays.executor": "Run",
+    "Python.12_Vectorization.executor": "Run",
     "Python.12_file handling.executor": "Run",
     "Python.13_MenuBar.executor": "Run",
     "Python.14_Frames.executor": "Run",
@@ -79,7 +122,11 @@
     "Python.26_rocks papers scissors.executor": "Run",
     "Python.27_ludo.executor": "Run",
     "Python.28_Calculator GUI.executor": "Run",
+    "Python.29_Tic tac toe GUI.executor": "Run",
+    "Python.Inserting in array.executor": "Run",
+    "Python.Intelligent file organizer.executor": "Run",
     "Python.Password generator.executor": "Run",
+    "Python.Reshaping manipulating flatening.executor": "Run",
     "Python.complex num Addition.executor": "Run",
     "Python.polymorphism.executor": "Run",
     "Python.rename.executor": "Run",
@@ -89,9 +136,17 @@
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/prajw/OneDrive/Desktop/Python/08_Django/Templates_AppName_HTML/HTML_through_AppRegistration",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\prajw\OneDrive\Desktop\Python\08_Django\Templates_AppName_HTML\HTML_through_AppRegistration" />
+      <recent name="C:\Users\prajw\OneDrive\Desktop\Python\08_Django\Dynamic_URL_Handling\Blogs" />
+      <recent name="C:\Users\prajw\OneDrive\Desktop\Python\08_Django" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
