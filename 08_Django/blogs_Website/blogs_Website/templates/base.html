@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}Document{% endblock %}</title>
+    <style>
+        body{
+            font-family: Arial, sans-serif;
+            background-color: #141414ff;
+            margin: 20px;
+        }
+        a{
+            text-decoration: none;
+            color: #fff;
+        }
+        .black{
+            color: black;
+        }
+        span{
+            color: #151515ff;
+        }
+        img{
+            border-radius: 30px;
+        }
+    </style>
+</head>
+<body>
+    {% block content %}
+    {% endblock %}
+</body>
+    <script>
+    const colors = [
+        "#e95353ff", "#79d03eff", "#a76f00ff",
+        "#3680c0ff", "#a934c3ff", "#00bb5eff"
+    ];
+
+    // Shuffle colors (Fisher–Yates)
+    for (let i = colors.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [colors[i], colors[j]] = [colors[j], colors[i]];
+    }
+
+    document.querySelectorAll(".blog-card").forEach((card, index) => {
+        card.style.backgroundColor = colors[index % colors.length];
+    });
+</script>
+
+
+</html>

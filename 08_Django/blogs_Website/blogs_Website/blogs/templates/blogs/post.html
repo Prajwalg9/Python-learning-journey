@@ -1,0 +1,42 @@
+
+{% extends 'base.html' %}
+{% block title %}Blogs Home{% endblock %}
+{% load static %}
+{% block content %}
+
+
+    <h3><a href="{% url 'home' %}" class="black" style="color: #ffffffff;"><-Go Home</a></h3>
+
+    <div style="border:1px solid #151515ff;border-radius: 30px; padding:15px; margin-bottom:10px; text-align:center;" class="blog-card">
+        <h3>{{ blog.title }}</h3>
+        <img src="{% static 'images/' %}{{ blog.image }}" alt="{{ blog.title }}" width="200">
+        <p>
+            <strong>Category:</strong> {{ blog.category }} <br>
+            <strong>Author:</strong> <a href="mailto:{{ blog.author.email }}",alt="{{ blog.author.phone }}">{{ blog.author.first_name }} {{ blog.author.last_name }} </a><br>
+            <strong>Date:</strong> {{ blog.date|date:"M d, Y" }}
+        </p>
+
+        <p>{{ blog.description|truncatechars:150 }}</p>
+
+        <p>
+                {% for tag in blog.tags.all %}
+                    <span style="background-color: #f0f0f0; padding: 2px 8px; border-radius: 4px; margin-right: 5px;">
+                        #{{ tag.caption }}
+                    </span>
+                {% empty %}
+                    <span>No tags.</span>
+                {% endfor %}
+            </p>
+
+        
+    </div>
+    <section>
+        <form action="post">
+            {{ formdata}}
+            <button type="submit">Add Comment</button>
+        </form>
+    </section>
+
+
+
+{% endblock %}
