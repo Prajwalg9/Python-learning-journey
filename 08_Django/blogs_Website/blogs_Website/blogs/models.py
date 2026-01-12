@@ -25,9 +25,13 @@ class Blog(models.Model):
     category = models.CharField(max_length=100)
     author=models.ForeignKey(Author, on_delete=models.CASCADE)
     tags=models.ManyToManyField(Tag)
+    
+    def __str__(self):
+        return f"{self.title}"
 
 class Comment(models.Model):
     user_name=models.CharField(max_length=100)
     user_email=models.EmailField()
+    date=models.DateField(auto_now=True)
     text=models.TextField()
     blog=models.ForeignKey(Blog, on_delete=models.CASCADE)
