@@ -5,20 +5,22 @@
 
 
 {% block content %}
-    <h2 style="color: #ffffffff;">Welcome to the Blogs Home Page</h2>
-<h1 style="color: #ffffffff;">Blogs:</h1>
 
-<div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(300px, 2fr)); gap: 20px;">
+<h1 style="color: #ffffffff;">Dashboard</h1>
+    <p style="color: #ffffffff;">Welcome to your dashboard, {{ request.user.username }}.</p>
+  <br><br>
+
+<div class="blog-grid">
 
 {% for blog in blogs %}
-    <div style="border:1px solid #151515ff;border-radius: 30px; padding:15px; margin-bottom:10px; text-align:center;" class="blog-card">
+    <div class="blog-card">
         <a href="{% url 'post_detail' blog.title %}">
             <h2>{{ blog.title }}</h2>
         <img src="{% static 'images/' %}{{ blog.image }}" alt="{{ blog.title }}" width="200">
 
         <p>
                 {% for tag in blog.tags.all %}
-                    <span style="background-color: #f0f0f0; padding: 2px 8px; border-radius: 4px; margin-right: 5px;">
+                    <span style="background-color: #f0f0f0;color:#000; padding: 2px 8px; border-radius: 4px; margin-right: 5px;">
                         #{{ tag.caption }}
                     </span>
                 {% empty %}

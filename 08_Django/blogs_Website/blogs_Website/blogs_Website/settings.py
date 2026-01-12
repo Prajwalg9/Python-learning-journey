@@ -42,6 +42,12 @@ INSTALLED_APPS = [
 ]
 
 
+LOGIN_URL = 'login'          # where @login_required redirects if not logged in
+LOGIN_REDIRECT_URL = 'dashboard'  # where to go after successful login
+LOGOUT_REDIRECT_URL = 'login'     # after logout
+
+
+
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
@@ -118,3 +124,4 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/6.0/howto/static-files/
 
 STATIC_URL = 'static/'
+STATICFILES_DIRS = [BASE_DIR / 'static']
