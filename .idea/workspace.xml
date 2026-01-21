@@ -5,38 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47cd925a-273e-494f-8076-22da685eb93c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/12_OpenCV/04_Erosion_and_Dilation_vs_Opening_and_closing_and_gradient.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_OpenCV/05_Tophant_and_Blackhat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_OpenCV/06_Fliping_size_in_bite.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_OpenCV/07_interpolation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_OpenCV/08_adding shapes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_OpenCV/09_shifted image.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_OpenCV/10_gaussian blur.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_OpenCV/11_binary_threshold_highway.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_OpenCV/12_rotate_highway_image.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_OpenCV/13_Bilateral_filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_OpenCV/14_Canny_edge_detection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_OpenCV/15_Video_resize_and_display.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_OpenCV/16_Median_blur.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_OpenCV/17_webcam_live.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_OpenCV/18_webcam.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_OpenCV/images/highway.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_OpenCV/images/nature.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_OpenCV/screenshots/Screenshot 2026-01-20 150611.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_OpenCV/screenshots/Screenshot 2026-01-20 150818.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_OpenCV/screenshots/Screenshot 2026-01-20 150901.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_OpenCV/screenshots/Screenshot 2026-01-20 150945.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_OpenCV/screenshots/Screenshot 2026-01-20 151031.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_OpenCV/screenshots/Screenshot 2026-01-20 151119.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_OpenCV/screenshots/Screenshot 2026-01-20 151143.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_OpenCV/screenshots/Screenshot 2026-01-20 151211.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_OpenCV/screenshots/Screenshot 2026-01-20 151417.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_OpenCV/screenshots/Screenshot 2026-01-20 151440.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_OpenCV/screenshots/Screenshot 2026-01-20 151641.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_OpenCV/screenshots/Screenshot 2026-01-20 151735.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13_selinium/generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_selinium/facebook.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12_OpenCV/03_Resizing_image.py" beforeDir="false" afterPath="$PROJECT_DIR$/12_OpenCV/03_Resizing_image.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,6 +62,7 @@
     &quot;Python.05_docstrings_basics.executor&quot;: &quot;Run&quot;,
     &quot;Python.06_Fliping_size_in_bite.executor&quot;: &quot;Run&quot;,
     &quot;Python.06_Radio-Button.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06_amazon_iphones_list.executor&quot;: &quot;Run&quot;,
     &quot;Python.07_interpolation.executor&quot;: &quot;Run&quot;,
     &quot;Python.07_scale.executor&quot;: &quot;Run&quot;,
     &quot;Python.08_adding shapes.executor&quot;: &quot;Run&quot;,
@@ -134,6 +105,7 @@
     &quot;Python.Reshaping manipulating flatening.executor&quot;: &quot;Run&quot;,
     &quot;Python.Tophant_and_Blackhat.executor&quot;: &quot;Run&quot;,
     &quot;Python.complex num Addition.executor&quot;: &quot;Run&quot;,
+    &quot;Python.generator.executor&quot;: &quot;Run&quot;,
     &quot;Python.polymorphism.executor&quot;: &quot;Run&quot;,
     &quot;Python.rename.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -153,6 +125,9 @@
       <recent name="C:\Users\prajw\OneDrive\Desktop\Python\08_Django\Templates_AppName_HTML\HTML_through_AppRegistration" />
       <recent name="C:\Users\prajw\OneDrive\Desktop\Python\08_Django\Dynamic_URL_Handling\Blogs" />
       <recent name="C:\Users\prajw\OneDrive\Desktop\Python\08_Django" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\prajw\OneDrive\Desktop\Python\13_selinium" />
     </key>
   </component>
   <component name="SharedIndexes">
