@@ -1,44 +1,31 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import TimeoutException
+from time import sleep
 import time
 
-# Initialize Firefox driver
-driver = webdriver.Firefox()
+driver = webdriver.Chrome()
 
-try:
-    # Navigate to demo login page (adapt for Facebook/travelocity)
-    driver.get("https://demoqa.com/login")
+driver.get("https://www.facebook.com")
+sleep(2)
 
-    # Wait for and fill email field
-    email = WebDriverWait(driver, 10).until(
-        EC.presence_of_element_located((By.ID, "userEmail"))
-    )
-    email.send_keys("demouser@test.com")  # Replace with test credentials [file:12]
+emailelement = driver.find_element(By.NAME, "email")
+emailelement.send_keys('prajwalgg99@gmail.com')
 
-    # Wait for and fill password field
-    password = WebDriverWait(driver, 10).until(
-        EC.presence_of_element_located((By.ID, "userPassword"))
-    )
-    password.send_keys("demopass123")  # Replace with test credentials [file:13]
+passelement = driver.find_element(By.NAME, "pass")
+passelement.send_keys('viruGG99@')
 
-    # Wait for and click login button
-    login_button = WebDriverWait(driver, 10).until(
-        EC.element_to_be_clickable((By.ID, "login"))
-    )
-    login_button.click()
+elem = driver.find_element(By.NAME, "login")
+elem.click()
 
-    # Wait for status message (success/error check)
-    status = WebDriverWait(driver, 10).until(
-        EC.presence_of_element_located((By.ID, "name"))  # Or error span
-    )
-    print("Status message:", status.text)  # Verify login [web:21]
+sleep(8)
 
-    time.sleep(2)  # Brief pause for observation only
+statuselement = driver.find_element(By.XPATH, "//div[@role='combobox']")
+statuselement.send_keys('Good morning everyone')
 
-except TimeoutException:
-    print("Element not found or page load timeout")
-finally:
-    driver.quit()
+sleep(5)
+
+buttons = driver.find_elements(By.TAG_NAME, 'button')
+
+for button in buttons:
+    if button.text == 'Post':
+        button.click()
